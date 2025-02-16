@@ -1,5 +1,0 @@
-openai
-streamlit
-python-dotenv
-youtube-transcript-api
-langchain_community
